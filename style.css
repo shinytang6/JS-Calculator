@@ -1,0 +1,49 @@
+@import url(http://fonts.googleapis.com/css?family=Oleo+Script);
+
+body{
+	background-color: rgba(162, 92, 32, 0.83);
+}
+h3{
+    font-family: 'Oleo Script', cursive;
+    color: #8F5D35;
+    padding-top: 10px;
+    font-size: 18px;
+
+}
+
+.screen{
+  border-radius: 5px;
+  background-color:rgba(255, 165, 0, 0.39);
+  margin: 200px auto auto auto;
+  width: 320px;
+  height: auto;
+  border: none;
+  text-align: center;
+
+  
+}
+
+.cal{
+    width: 280px;
+    height: 24px;
+    text-align: right;
+    background-color:rgb(191, 184, 178);
+    border: none;
+}
+button{
+	width: 65px;
+	height: 50px;
+  margin-top: 5px;
+  cursor: pointer;
+  border: none;
+  color: rgb(185, 86, 29);
+
+    
+}
+
+.buttons{
+  padding: 10px;
+}
+button:hover{
+  opacity: 0.9
+}
